@@ -1,0 +1,61 @@
+Favorites
+	Albuterol HFA
+		90mcg 2 puffs q4-6 hr prn (Rx)
+	Amitriptyline
+		50mg tab 1 qHS (Rx)
+	Amlodipine (Norvasc)
+		5mg tab 1 qd (Rx)
+	Atenolol 
+		100mg 1 qd (Rx)
+	Azithromycin (Zithromax)
+		250mg tab 1 qd (Rx)
+	Beclomethasone (QVAR)
+		40mcg/act 2 BID (Rx)
+	Atenolol-Chlorthalidone
+		100mg-25mg tab 1 qd (Rx)
+	Benazepril 
+		10mg tab 1 qd (Rx)
+	Budesonide/formoterol (Symbicort)
+		(80mcg/4.5mcg)/puff 2 BID (Rx)
+	Chlorthalidone
+		25 mg tab 1 qd (Rx)
+	Citalopram
+		20mg tab 1 qd (Rx)
+	Doxycycline Hyclate
+		100 mg cap 1 q12 hr (Rx)
+	Doxycycline Hyclate
+		100 mg cap 1 q12 hr (Rx)
+	Enalapril-HCTZ
+		5mg-12.5mg tab 1 qd (Rx)
+	Fluticasone and salmeterol (Advair HFA)
+		(21mcg/45mcg)/act 2 puff BID (Rx)
+	Hydrochlorothiazide
+		25mg cap 1 qd (Rx)
+	Ipratropium HFA
+		17mcg/puff 2 puffs QID and prn < 12 puffs / d (Rx)
+	Ipratropium and albuterol (Combivent Respimat)
+		(100mcg/20mcg)/inhalation 2 inh QID & PRN; < 12 inh/day (Rx)
+	Ibuprofen
+		200mg tab 1 q6 hr prn (Rx)
+	Insulin Glargine (Lantus)
+		U-100   U sq (Rx)
+	Levothyroxine
+		25mcg cap/tab 1 qd (Rx)
+	Metformin XR
+		1000mg 1 q24 h with Dinner (Rx)		
+	Metformin XR
+		500mg 1 q24 h with Dinner (Rx)
+	Omeprazole
+		20mg tab 1 qd (Rx)
+	Oxymetazoline (Nasal Route)
+		2 puffs to each Nares BID prn (Rx)
+	Pravastatin
+		20mg 1 qd (Rx)
+	SMZ-TMP DS
+		400mg-80mg tab 1 q12 (Rx)
+	Terbinafine
+		250mg tab 1 qd (Rx)
+	Tiotropium (Spiriva)
+		18mcg 2 inh qD (Rx)
+	Trazodone
+		50mg tab 1 qHS (Rx)
