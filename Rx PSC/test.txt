@@ -1,0 +1,1120 @@
+Antibiotic Treatments
+	Amoxicillin
+		250 mg 1 cap q8 hr (Rx)
+		500 mg 1 cap q8 hr (Rx)
+		500 mg 1 tab 1 q8 hr (Rx)
+		500 mg 1 cap q12 hr (Rx)
+		500 mg 1 tab 1 q12 hr (Rx)
+		875 mg 1 tab 1 Q12 (Rx)		
+	Amoxicillin ER
+		775 mg 1 qd (Rx)
+	Amoxicillin-Clavulanate
+		200mg/28.5mg q8 hr (Rx)
+		250mg/125mg q8 hr (Rx)
+		500mg/125mg q8 hr (Rx)
+		875mg/125mg q8 hr (Rx)
+		1000mg/62.5mg q8 hr (Rx)
+	Cephalexin
+		250 mg 1 cap Q6 hr (Rx)
+		500 mg 1 cap Q6 hr (Rx)
+		750 mg 1 cap Q6 hr (Rx)
+	Ciprofloxacin
+		250 mg 1 Q12 hr (Rx)
+		500 mg 1 Q12 hr (Rx)
+		750 mg 1 Q12 hr (Rx)
+	Ciprofloxacin ER
+		500 mg 1 Q24 hr (Rx)
+		1000 mg 1 Q24 hr (Rx)
+	Doxycycline Hyclate
+		40 mg cap 1 q12 hr (Rx)
+		50 mg cap 1 q12 hr (Rx)
+		75 mg cap 1 q12 hr (Rx)		
+		100 mg cap 1 q12 hr (Rx)
+		150 mg cap 1 q12 hr (Rx)
+		20 mg tab 1 q12 hr (Rx)
+		75 mg tab 1 q12 hr (Rx)		
+		100 mg Tab 1 q12 hr (Rx)
+		150 mg Tab 1 q12 hr (Rx)
+	Doxycycline ER
+		75 mg tab 1 q24 hr (Rx)		
+		100 mg tab 1 q24 hr (Rx)	
+	Metronidazole
+		250 mg tab 1 BID (Rx)
+		375 mg cap 1 BID (Rx)
+		500 mg tab 1 BID (Rx)
+		500 mg tab 4 po now (Rx)
+	Metronidazole ER
+		750 mg tab 1 q 24 h (Rx)
+	Penicillin VK
+		250mg tab 1 TID (Rx)
+		500mg tab 1 TID (Rx)
+		250mg tab 1 QID (Rx)
+		500mg tab 1 QID (Rx)
+	SMZ-TMP DS
+		400mg-80mg tab 1 q12 (Rx)
+		800mg-160mg tab 1 q12 (Rx)
+	Tetracycline
+		250mg cap q 6h (Rx)
+		500mg cap q 6h (Rx)
+		250mg tab q 6h (Rx)
+		500mg tab q 6h (Rx)
+Antifungal
+	Fluconazole
+		50mg tab 1 qd (Rx)
+		100mg tab 1 qd (Rx)
+		150mg tab 1 qd (Rx)
+		200mg tab 1 qd (Rx)
+	Nystatin/Triamcin cream
+		(0.1%/100,000units)/g Apply to affected area BID x2 weeks (Rx)
+		(0.1%/100,000units)/g Apply to affected area TID x2 weeks (Rx)
+	Nystatin cream
+		100,000 unit/g Apply to affected area BID x2 weeks (Rx)
+		100,000 unit/g Apply to affected area TID x2 weeks (Rx)
+	Nystatin ointment
+		100,000 unit/g Apply to affected area BID x2 weeks (Rx)
+		100,000 unit/g Apply to affected area TID x2 weeks (Rx)
+	Terbinafine
+		250mg tab 1 qd (Rx)
+Antiviral
+	Acyclovir
+		200mg cap q4 hr (Rx)
+		400mg cap 1 TID (Rx)
+		800mg cap 1 q4 h (Rx)
+Arthritis & Pain
+	Allopurinol
+		100 mg 1 qd (Rx)
+		300 mg 1 qd (Rx)
+	Colchicine
+		0.6mg tab 2 po initially THEN tab 1 q1 hr, not to exceed 1.8 mg over an 1 hr (Rx)
+		0.6 mg tab 1 PO qDay (Rx)
+		0.6 mg tab 1 PO BID (Rx)
+	Cyclobenzaprine
+		5 mg tab 1 TID (Rx)
+		7.5mg tab 1 TID (Rx)
+		10 mg tab 1 TID (Rx)
+	Cyclobenzaprine ER
+		15mg cap 1 qD (Rx)
+		30mg cap 1 qD (Rx)
+	Diclofenac DR
+		75 mg tab 1 BID (Rx)
+	Ibuprofen
+		100mg tab 1 q6 hr prn (Rx)
+		200mg tab 1 q6 hr prn (Rx)
+		400mg tab 1 q6 hr prn (Rx)
+		600mg tab 1 q6 hr prn (Rx)
+		800mg tab 1 q6 hr prn (Rx)
+	Indomethacin
+		25 mg cap q 12h prn (Rx)
+		50 mg cap q 12h prn (Rx)
+	Indomethacin ER
+		75mg cap 1 q 24 h (Rx)
+	Indomethacin Suppository
+		50mg 1 per rectum q 12 h (Rx)
+	Meloxicam
+		7.5 mg 1 qd (Rx)
+		15 mg 1 qd (Rx)
+	Naproxen
+		220mg tab 1 q 6-8 hr prn (Rx)
+		250mg tab 1 q 6-8 hr prn (Rx)
+		275mg tab 1 q 6-8 hr prn (Rx)
+		375mg tab 1 q 8 hr prn (Rx)
+		500mg tab 1 q 12 hr prn (Rx)
+		550mg tab 1 q 12 hr prn (Rx)
+CAM
+	Omega-3 Fatty Acid
+	Vitamin D3
+	L-Carnitine
+	Cinnamin
+	Zinc
+	Fever few / Ginger SL
+Cardiac
+	Bumetanide
+		0.5mg tab 1 PO QD (Rx)
+		1mg tab 1 PO QD (Rx)
+		2mg tab 1 PO QD (Rx)
+	Digoxin
+		0.05mg cap 1 qd (Rx)
+		0.1mg cap 1 qd (Rx)
+		0.2mg cap 1 qd (Rx)
+		0.125mg tab 1 qd (Rx)
+		0.25mg tab 1 qd (Rx)
+	Furosemide 
+		 20 mg tab 1 PO QD (Rx)
+		 40 mg tab 1 PO QD (Rx)
+		 80 mg tab 1 PO QD (Rx)
+	Isosorbide Dinitrate ER
+		40 mg 1 q 8 hr (Rx)
+		40 mg 1 q 12 hr (Rx)
+		40 mg 2 q 8 hr (Rx)
+		40 mg 2 q 12 hr (Rx)
+	Nitroglycerin
+		0.3mg tab 1-2 sl q 5 min prn CP x 3 and if no relief go to ER (Rx)
+		0.4mg tab 1-2 sl q 5 min prn CP x 3 and if no relief go to ER (Rx)
+		0.6mg tab 1 sl q 5 min prn CP x 3 and if no relief go to ER (Rx)
+	Potassium Chloride
+		20 mq tab 1 q 12 hr (Rx)
+	Potassium Chloride ER
+		8mEq tab 1 q 24 hr (Rx)
+		10mEq tab 1 q 24 hr (Rx)
+		8mEq cap 1 q 24 hr (Rx)
+		10mEq cap 1 q 24 hr (Rx)
+		15mEq tab 1 q 24 hr (Rx)
+		20mEq tab 1 q 24 hr (Rx)
+Corticosteroids
+	Hydrocortisone AC suppositories
+		25mg per rectum ud (Rx)
+	Methylprednisolone
+		4mg tab 1 qd (Rx)
+		4mg dose pak (21 tablets) ud (Rx)
+	Prednisone
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		5mg dose pak (21 tablets) ud (Rx)
+		5mg dose pak* (48 tablets) ud (Rx)
+		10mg tab 1 qd (Rx)
+		10mg dose pak (21 tablets) ud (Rx)
+		10mg dose pak* (48 tablets ud (Rx)
+		20mg tab 1 qd (Rx)
+		300mg tab 1 qd (Rx)
+Dermatology
+	Acyclovir topical
+		5% to affected area 5 times daily for 4 days (Rx)
+	Alclometasone dipropionate (Aclovate) Cream 
+		0.05% apply BID (Rx)
+	Amcinonide (Cyclocort) Cream
+		1% apply to affected area BID (Rx)
+	Amcinonide (Cyclocort) Ointment
+		1% apply to affected area BID (Rx)
+	Aqua glycolic Cream, lotion,shampoo, others
+		Apply to affected area 1-3 times daily (Rx)
+	Aquaphor Ointment
+		Apply to affected area 1-3 times daily (Rx)
+	Aveeno Cream or lotion, etc
+		Apply to affected area 1-3 times daily (Rx)
+	Betamethasone dipropionate (Diprolene) Cream
+		0.05% apply to affected area BID (Rx)
+	Betamethasone dipropionate (Diprolene) Ointment
+		0.05% apply to affected area BID (Rx)
+	Betamethasone dipropionate (Diprolene) Lotion
+		0.05% apply to affected area BID (Rx)
+	Butenafine (Mentax) Cream
+		1% apply to affected area qd (Rx)
+	Camphor-menthol Compounded lotion
+		0.5% of each apply BID-TID prn itch (Rx)
+	Carmol Lotion
+		10% apply to affected area BID (Rx)
+	Ceratopic Cream Cream
+		Apply to affected area BID (Rx)
+	Ciclopirox (Loprox) (Penlac) Cream
+		0.77% apply to affected area BID (Rx)
+	Ciclopirox (Loprox) (Penlac) Lotion
+		0.77% apply to affected area BID (Rx)		
+	Ciclopirox (Loprox) (Penlac) Solution
+		0.8% apply to affected area BID (Rx)
+	Clindamycin phosphate Solution
+		1% apply to affected area BID (Rx)
+	Clindamycin phosphate Gel
+		1% apply to affected area BID (Rx)
+	Clindamycin phosphate Pledget
+		1% apply to affected area BID (Rx)
+	Clindamycin phosphate Lotion
+		1% apply to affected area BID (Rx)
+	Clindamycin/Benzoyl peroxide (BenzaClin) Gel
+		Apply to affected area BID (Rx)
+	Clobetasol propionate (Temovate) Cream
+		0.05% apply to affected area BID (Rx)
+	Clobetasol propionate (Temovate) Ointment
+		0.05% apply to affected area BID (Rx)		
+	Clobetasol propionate (Temovate) Lotion
+		0.05% apply to affected area BID (Rx)
+	Clocortolone (Cloderm) Cream 
+		0.1% Apply TID (Rx)
+	Clotrimazole Cream
+		1% apply to affected area BID (Rx)
+	Clotrimazole Solution
+		1% apply to affected area BID (Rx)
+	Complex 15 Lotion
+		Apply to affected area 1-3 times daily (Rx)	
+	Complex 15 cream
+		Apply to affected area 1-3 times daily (Rx)
+	Desonide Cream 
+		0.05% Apply BID (Rx)
+	Desonide Ointment
+		0.05% Apply BID (Rx)
+	Desonide Lotion
+		0.05% Apply BID (Rx)
+	Diflorasone diacetate Cream 
+		0.05% apply BID (Rx)
+	Diflorasone diacetate Ointment 
+		0.05% apply BID (Rx)
+	DML Cream, lotion, facial moisturizer
+		Apply to affected area 1-3 times daily (Rx)
+	Doxepin (Zonalon) Cream
+		5% Apply to affected area QID prn itch(Rx)
+	Econazole (Spectazole) Cream
+		1% apply to affected area qd (Rx)
+	Erythromycin Solution
+		2% apply to affected area BID (Rx)
+	Erythromycin/Benzoyl peroxide (Benzamycin) Gel
+		Apply to affected area BID (Rx)
+	Eucerin Cream
+		Apply to affected area 1-3 times daily (Rx)
+	Fluocinonide (Lidex) Cream
+		0.05% apply to affected area BID (Rx)
+	Fluocinonide (Lidex) Ointment
+		0.05% apply to affected area BID (Rx)		
+	Fluocinonide (Lidex) Gel
+		0.05% apply to affected area BID (Rx)		
+	Fluocinolone acetonide Cream
+		0.025% apply BID (Rx)
+	Fluocinolone acetonide Ointment
+		0.025% apply BID (Rx)
+	Fluocinolone acetonide Solution
+		0.01% apply BID (Rx)
+	Flurandrenolide (Cordran) Tape
+		q12h (Rx)
+	Flurandrenolide (Cordran) Lotion
+		.05% apply to affected area q12 h (Rx)
+	Halobetasol propionate (Ultravate) Cream
+		0.05% apply to affected area BID (Rx)
+	Halobetasol propionate (Ultravate) Ointment
+		0.05% apply to affected area BID (Rx)		
+	Hydrocortisone acetate Cream 
+		1% apply to affected area BID (Rx)
+	Ketoconazole Cream
+		2% apply to affected area qd (Rx)
+	Lac-Hydrin-Five Lotion
+		Apply to affected area BID (Rx)
+	Lubriderm Lotion
+		Apply to affected area 1-3 times daily (Rx)
+	Miconazole Cream
+		2% apply to affected area BID (Rx)
+	Mometasone furoate (Elocon) Cream
+		0.1% apply qd (Rx)
+	Mometasone furoate (Elocon) Ointment
+		0.1% apply qd (Rx)		
+	Mometasone furoate (Elocon) Lotion
+		0.1% apply qd (Rx)
+	Mupirocin (Bactroban) Ointment
+		2% apply to affected area TID (Rx)
+	Mupirocin (Bactroban) Cream
+		2% apply to affected area TID (Rx)
+	Naftifine (Naftin) Cream
+		1%  apply to affected area qd (Rx)
+	Naftifine (Naftin) gel
+		1%  apply to affected area qd (Rx)
+	Neutrogena Cream, lotion, facial moisturizer
+		Apply to affected area 1-3 times daily (Rx)
+	Oxiconazole (Oxistat) Cream
+		1% apply to affected area BID (Rx)
+	Oxiconazole (Oxistat) Lotion
+		1% apply to affected area BID (Rx)
+	Pimecrolimus (Elidel) Cream
+		1% apply to affected area BID (Rx)
+	Pramoxine hydrochloride (Prax) Lotion
+		1% apply to affected area QID prn itch (Rx)
+	Prednicarbate (Dermatop) Emollient
+		0.1% apply BID (Rx)
+	Prednicarbate (Dermatop) Cream
+		0.1% apply BID (Rx)
+	Sertaconazole Cream (Ertaczo)
+		2% apply to affected area BID (Rx)
+	Sulconazole (Exelderm) Cream
+		1% apply to affected area BID (Rx)
+	Sulconazole (Exelderm) Solution
+		1% apply to affected area BID (Rx)
+	Tacrolimus (Protopic) Ointment
+		0.1% apply to affected area BID (Rx)
+	Tacrolimus (Protopic) Ointment
+		0.03% apply to affected area BID (Rx)
+	Terbinafine (Lamisil) Cream
+		1% apply to affected area qd (Rx)
+	Triamcinolone acetonide Cream
+		0.1% apply BID (Rx)
+	Triamcinolone acetonide Ointment
+		0.1% apply BID (Rx)
+	Triamcinolone acetonide Cream
+		0.025% apply BID (Rx)
+	Triamcinolone acetonide Ointment
+		0.025% apply BID (Rx)
+	U-Lactin Lotion
+		 Apply to affected area daily (Rx)
+	Vicks VapoRub
+		Apply with a cotton swab or finger to the affected nail BID-QID (Rx)
+Diabetes
+	Acarbose (Precose)
+		25mg tab 1 q8 hr with first bite of meal (Rx)
+		50mg tab 1 q8 hr with first bite of meal (Rx)
+		100mg tab 1 q8 hr with first bite of meal (Rx)
+	Colesevelam (WelChol)
+	Bromocriptine (Cycloset)
+	Exenatide injectable solution (Byetta)
+		250mcg/mL (1.2mL) 5 mcg SC q12hr within 60 minutes prior to meal (Rx)
+		250mcg/mL (2.4mL) 5 mcg SC q12hr within 60 minutes prior to meal (Rx)
+	Exenatide injectable suspension (Bydureon)
+		2mg/vial 2 mg SC once weekly (Rx)
+	Glimepiride
+		1 mg tab 1 qAM (Rx)
+		2mg tab 1 qAM (Rx)
+		4mg tab 1 qAM (Rx)
+	Glipizide Immediate Release
+		2.5mg tab 1	qd (Rx)
+		5mg tab	1 qd (Rx)
+		10mg tab 1 qd (Rx)
+		2.5mg tab 1	q 12hr (Rx)
+		5mg tab	1 q 12hr (Rx)
+		10mg tab 1 q 12hr (Rx)	
+	Glipizide Controlled Release
+		2mg tab	1 qd (Rx)
+		5mg tab	1 qd (Rx)
+		10mg tab 1 qd (Rx)
+	Glucometer
+		Brand (Rx)
+	Test Strips
+		Brand (Rx)
+	Glyburide
+		1.25mg tab 1 qd (Rx)
+		1.5mg tab (micronized) 1 qd (Rx)
+		2.5mg tab 1 qd (Rx)
+		3mg tab (micronized) 1 qd (Rx)
+		5mg tab	1 qd (Rx)
+		6mg tab (micronized) 1 qd (Rx)
+	Insulin aspart (NovoLog)
+		U-100   U sq (Rx)
+	Insulin aspart protamine/insulin aspart (NovoLog)
+		50/50   U sq (Rx)
+		70/30   U sq (Rx)
+	Insulin detemir (Levemir)
+		U-100   U sq (Rx)
+	Insulin Glargine (Lantus)
+		U-100   U sq (Rx)
+	Insulin glulisine (Apidra)
+		U-100   U sq (Rx)
+	Insulin lispro (Humalog)
+		U-100   U sq (Rx)
+	Insulin lispro protamine/insulin lispro (Humalog)
+		50/50   U sq (Rx)
+		75/25   U sq (Rx)
+	Insulin NPH (Humulin N)
+		U-100   U sq (Rx)
+	Insulin NPH (HNovolin N)
+		U-100   U sq (Rx)
+	Insulin Syringes
+		1 cc (Rx)
+	Linagliptin (Tradjenta)
+		5mg ta b 1 q24 hr (Rx)
+	Liraglutide (Victoza)
+		6 mg/mL as 3-mL prefilled multi-dose injection pen 0.6 mg SC qDay for 1week (Rx)
+		6 mg/mL as 3-mL prefilled multi-dose injection pen 1.2 mg SC qDay for 1week (Rx)
+		6 mg/mL as 3-mL prefilled multi-dose injection pen 1.8 mg SC qDay for 1week (Rx)
+	Metformin
+		500mg 1 q 24 (Rx)
+		500mg tab 1 q 8 (Rx)
+		500mg tab 1 q 12 (Rx)
+		850 mg tab 1 24 h (Rx)
+		850 mg tab 1 q 12 h (Rx)
+		800mg tab 1 q 8 hr (Rx)
+		1000mg tab 1 24 hr (Rx)
+		1000 mg tab 1 12 hr (Rx)
+	Metformin XR
+		500mg 1 q24 h with Dinner (Rx)
+		750mg 1 q24 h with Dinner (Rx)
+		1000mg 1 q24 h with Dinner (Rx)		
+	Miglitol (Glyset)
+		25mg tab 1 q8 hr with first bite of meal (Rx)
+		50mg tab 1 q8 hr with first bite of meal (Rx)
+		100mg tab 1 q8 hr with first bite of meal (Rx)
+	Nateglinide (Starlix)
+		60mg tab 1 q8 hr 1-30 min AC (Rx)
+		120mg tab 1 q8 hr 1-30 min AC (Rx)
+	Pioglitazone (Actos)
+		15mg tab 1 q 24 hr (Rx)
+		30mg tab 1 q 24 hr (Rx)
+		45mg  tab 1 q 24 hr (Rx)
+	Pramlintide acetate (Symlin)
+	Regular insulin (Humulin R)
+		U-100   U sq (Rx)
+	Regular insulin (Novolin R)
+		U-100   U sq (Rx)
+	Repaglinide (Prandin)
+		0.5mg tab 1 15 min AC (Rx)
+		1mg tab 1 15 min AC (Rx)
+		2mg tab 1 15 min AC (Rx)
+	Sitagliptin (Januvia)
+		25mg tab 1 q 24 hr (Rx)
+		50mg tab 1 q 24 hr (Rx)
+		100mg tab 1 q 24 hr (Rx)
+	Saxagliptin (Onglyza)
+		2.5mg tab 1 q 24 hr (Rx)
+		5mg tab 1 q 24 hr (Rx)
+Dyslipidemia
+	Atorvastatin
+		10mg 1 qd (Rx)
+		20mg 1 qd (Rx)
+		40mg 1 qd (Rx)
+		80mg 1 qd (Rx)
+	Cholestyramine
+		4g resin/5g powder q 24 hr (Rx)
+		4g resin/5g powder q 12 hr (Rx)
+		4g resin/5.5g powder q 24 hr (Rx)
+		4g resin/5.5g powder q 12 hr (Rx)
+		4g resin/6.4g powder q 24 hr (Rx)
+		4g resin/6.4g powder q 12 hr (Rx)
+		4g resin/9g powder q 24 hr (Rx)
+		4g resin/9g powder q 12 hr (Rx)
+	Ezetimibe (Zetia)
+		10 mg tab 1 PO qDay (Rx)
+	Famotidine (Pepcid)
+		10mg tab 1 BID (Rx)
+		20mg tab 1 BID (Rx)
+		40mg tab 1 BID (Rx)
+	Fluvastatin
+		20mg 1 qHS (Rx)
+		40mg 1 qHS (Rx)	
+	Fluvastatin ER
+		28mg 1 qHS (Rx)
+	Lovastatin
+		10mg 1 qd at supper (Rx)
+		20 mg 1 qd at supper (Rx)
+	Lovastatin ER
+		20mg 1 qHS (Rx)
+		80mg 1 qHS (Rx)
+	Niacin
+		25mg 1 qd (Rx)
+		50mg 1 qd (Rx)
+		100mg 1 qd (Rx)
+		250mg 1 qd (Rx)
+		500mg 1 qd (Rx)
+	Niacin SR
+		500mg 1 qd (Rx)	
+		750mg 1 qd (Rx)
+		1000mg 1 qd (Rx)
+		1000mg 1 TID (Rx)
+		1000mg 2 TID (Rx)
+	Pravastatin
+		10mg 1 qd (Rx)
+		20mg 1 qd (Rx)
+		40mg 1 qd (Rx)
+	Rosuvastatin (CRESTOR)
+		10mg tab 1 q24 Hr (Rx)
+		20mg tab 1 q24 Hr (Rx)
+		40mg tab 1 q24 Hr (Rx)		
+	Simvastatin
+		5mg tab 1 q24 Hr (Rx)
+		10mg tab 1 q24 Hr (Rx)
+		20mg tab 1 q24 Hr (Rx)
+		40mg tab 1 q24 Hr (Rx)
+		80mg tab 1 q24 Hr (Rx)
+ENT
+	Acetic Acid Otic (VoSol)
+		2.5% 3-5 gtt q5-6hr ud (Rx)		
+	Antipyrine/Benzocaine otic
+		2 gtt QID (Rx)
+	Arachis oil, almond oil, rectified camphor oil (Otocerol, Earex)
+		4 gtts into the affected ear BID <1 4 d (Rx)
+	Carbamide peroxide (Debrox)
+		5-10 drops into the affected ear BID <= 7 d (Rx)
+	Choline salicylate and glycerol (Earex Plus, Audax)
+		50% 3 gtts BID x 4 days (Rx)
+	Chlorbutol
+		0.5% 3 gtts BID x 4 days (Rx)
+	Ciprofloxacin otic (Ciloxan, Cipro HC Otic)
+		0.2% in single-use 0.25mL  into affected ear BID x7 days (Rx)
+	Dexamethasone/ciprofloxacin Otic
+		0.3%/0.1% 4 gtt in affected ear BID x7 days (Rx)
+	Ethylene Oxide polyoxypropylene glycol (Addax)
+		 3 gtts BID x 4 days (Rx)
+	Neomycin, polymyxin B & hydrocortisone Sol(Cortisporin Otic)
+		(1%/0.35%/10000)U/mL 4 gtts in ear TID (Rx)
+		(1%/0.35%/10000)U/mL 4 gtts in ear QID(Rx)
+	Neomycin, polymyxin B & hydrocortisone Susp(Cortisporin Otic)
+		(1%/0.35%/10000)U/mL 4 gtts in ear TID (Rx)
+		(1%/0.35%/10000)U/mL 4 gtts in ear QID(Rx)
+	Ofloxacin Otic
+		0.3% 10 gtt qDay x7 days in affected ear(s) (Rx)
+		0.3% 10 gtt q12 h x7 days in affected ear(s) (Rx)
+	Olive oil, almond oil or mineral oil
+		3 gtts into the affected ear at bedtime 3-4 d (Rx)
+	Propylene glycol Otic
+		 3 gtts BID x 4 days (Rx)
+	Otitis Media
+	Pharyngitis
+	Rhinitis
+	Rhinosinusitis
+	Oxymetazoline (Nasal Route)
+		2 puffs to each Nares BID prn (Rx)
+Gastrointestinal
+	Cimetidine (Tagamet)
+		200mg tab 1 q6 h (Rx)
+		300mg tab 1 q6 h (Rx)
+		400mg tab 1 q12 h (Rx)
+		800mg tab 1 qHS (Rx)
+	Cytra2 solution
+		5cc prn constipation (Rx)
+	Lactulose syrup
+		5 cc prn constipation (Rx)
+	Belladonna Alkaloid-Phenobarbitol
+		tab 1 TID (Rx)
+		tab 1 QID (Rx)
+	Dicyclomine (Bentyl)
+		10mg 1 cap q6 hr (Rx)
+		20mg 1 cap q6 hr (Rx)
+	Esomeprazole (Nexium)
+		20mg cap 1 qd (Rx)
+		40mg cap 1 qd (Rx)	
+	Lansoprazole (Prevacid)
+		15mg tab 1 qd (Rx)
+		30mg tab 1 qd (Rx)
+	Metoclopramide
+		5mg tab 1 30 min AC & HS (Rx)
+		10mg tab 1 30 min AC & HS (Rx)
+	Nizatidine (Axid)
+		75mg tab 1 qHS (Rx)
+		150mg tab 1 qHS (Rx) 
+		300mg tab 1 qHS (Rx)
+	Omeprazole
+		10mg tab 1 qd (Rx)
+		20mg tab 1 qd (Rx)
+		40mg tab 1 qd (Rx)
+	Pantoprazole (Protonix)
+		20mg tab 1 qd (Rx)
+		40mg tab 1 qd (Rx)
+	Pepcid Complete OTC 
+		tab 1 BID prn (Rx)	
+	Promethazine
+		12.5mg tab 1 q4-6 hr prn(Rx)
+		50mg tab 1 q4-6 hr prn (Rx)
+	Rabeprazole (Aciphex)
+		20 mg tab 1 qd (Rx)
+	Ranitidine
+		25mg tab 1 BID (Rx)
+		75mg tab 1 BID (Rx)
+		150mg tab 1 BID (Rx)
+		300mg tab 1 BID (Rx)
+	Sucralfate (Carafate)
+		1gm QID (Rx)
+Genitourinary
+	Finasteride 
+		1mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+	Levitra
+		20mg tab 1 qd prn (Rx)
+	Lidocaine 2% viscous solution
+		ud (Rx)
+	Oxybutynin (Ditropan)
+		5mg tab	1 BID (Rx)
+	Oxybutynin CR
+		5mg tab	1 qd (Rx)
+		5mg tab	1 BID (Rx)
+		10 mg tab BID (Rx)
+	Phenazopyridine
+		100mg tab 1 TID (Rx)
+		200mg tab 1 TID (Rx)
+Hematology
+	Ferrous fumarate
+		151mg (50mg Fe) 1 TID (Rx)
+		151mg (50mg Fe) 2 TID (Rx)
+		324mg (106mg Fe) 1 TID (Rx)
+Hypertension
+	Aliskiren (Tekturna)
+		150mg 1 qd (Rx)
+		300mg 1 qd (Rx)
+	Amlodipine (Norvasc)
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+	Atenolol 
+		25mg 1 qd (Rx)
+		50mg 1 qd (Rx)
+		100mg 1 qd (Rx)
+	Atenolol-Chlorthalidone
+		50mg-25mg tab 1 qd (Rx)
+		100mg-25mg tab 1 qd (Rx)
+	Azilsartan (Edarbi)
+		40mg 1 qd (Rx)
+		80mg 1 qd (Rx)
+	Benazepril 
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+		20mg tab 1 qd (Rx)
+		40mg tab 1 qd (Rx)
+	Bisoprolol 
+		5mg tab 0.5 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+		10mg tab 2 qd (Rx)
+	Bisoprolol-HCTZ 
+		2.5mg-6.25mg tab 1 qd (Rx)
+		5mg-6.25mg tab 1 qd (Rx)
+		10mg-6.25mg tab 1 qd (Rx)
+	Bumetanide 
+		0.5mg tab 1 qd (Rx)
+		0.5mg tab 1 BID (Rx)
+		1mg tab 1 qd (Rx)
+		1mg tab 1 BID (Rx)
+	Captopril
+		12.5mg tab 1 BID (Rx)
+		12.5mg tab 1 TID (Rx)
+		25mg tab 1 BID (Rx)
+		25mg tab 1 TID (Rx)
+		50mg tab 1 BID (Rx)
+		50mg tab 1 TID (Rx)
+		100mg tab 1 BID (Rx)
+	Carvedilol
+		3.125mg tab 1 BID (Rx)
+		6.25mg tab 1 BID (Rx)
+		12.5mg tab 1 BID (Rx)
+		25mg tab 1 BID (Rx)
+	Clonidine
+		0.1mg tab 1 qd (Rx)
+		0.2mg tab 1 qd (Rx)
+	Chlorthalidone
+		25 mg 1/2 tab 1 (12.5mg)1 qd (Rx)
+		25 mg tab 1 qd (Rx)
+		50 mg tab 1 qd (Rx)
+	Digoxin
+		0.125mg tab 1 qd (Rx)
+		0.25mg tab 1 qd (Rx)
+	Diltiazem
+		30mg tab 1 QID (Rx)
+		60mg tab 1 QID (Rx)
+		90mg tab 1 QID (Rx)
+		120mg tab 1 QID (Rx)
+	Diltiazem XR
+		120mg tab 1 qd (Rx)
+		180mg tab 1 qd (Rx)
+		240mg tab 1 qd (Rx)
+		300mg tab 1 qd (Rx)
+		360mg tab 1 qd (Rx)
+		420mg tab 1 qd (Rx)
+	Doxazosin
+		1mg tab 1 qd (Rx)
+		2mg tab 1 qd (Rx)
+		4mg tab 1 qd (Rx)
+		8mg tab 1 qd (Rx)
+	Eplerenone (INSPRA)
+		25mg tab 1 qd (Rx)
+		50mg tab 1 qd (Rx)
+	Enalapril-HCTZ
+		5mg-12.5mg tab 1 qd (Rx)
+	Enalapril
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+		20mg tab 1 qd (Rx)
+	Eprosartan (Teveten)
+		400mg tab 1 qd (Rx)
+		600mg tab 1 qd (Rx)
+	Felodipine (Plendil)
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+	Furosemide
+		20mg tab 1 qd (Rx)
+		20mg tab 1 BID (Rx)
+		40mg tab 1 qd (Rx)
+		40mg tab 1 BID (Rx)
+		80mg tab 1 qd (Rx)
+		80mg tab 1 BID (Rx)
+	Guanfacine
+		1mg tab 1 qd (Rx)
+		2mg tab 1 qd (Rx)
+	Hydralazine
+		10mg tab 1 qd (Rx)
+		25mg tab 1 qd (Rx)
+	Hydrochlorothiazide
+		12.5mg cap 1 qd (Rx)
+		25mg cap 1 qd (Rx)
+		50mg cap 1 qd (Rx)
+	Indapamide
+		1.25mg tab 1 qd (Rx)
+		2.5mg tab 1 qd (Rx)
+	Isosorbide Mononitrate
+		30mg ER tab 1 qd (Rx)
+		60mg ER tab 1 qd (Rx)
+	Labetalol (Normodyne, Trandate)
+		100mg tab 1 q12 h (Rx)
+		200mg tab 1 q12 h (Rx)
+		300mg tab 1 q12 h (Rx)
+	Lisinopril-HCTZ
+		10mg-12.5mg tab 1 qd (Rx)
+		20mg-12.5mg tab 1 qd (Rx)
+		20mg-25mg tab 1 qd (Rx)
+	Lisinopril 
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+		20mg tab 1 qd (Rx)
+	Losartan (Cozaar)
+		25mg tab 1 qd (Rx)
+		50mg tab 1 qd (Rx)
+		100mg tab 1 qd (Rx)
+	Metoprolol Tartrate
+		25mg tab 1 qd (Rx)
+		50mg tab 1 qd (Rx)
+		100mg tab 1 qd (Rx)
+	Metolazone (Zaroxolyn)
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+	Minoxidil (Rogaine, Loniten)
+		2.5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+	Nadolol 
+		20mg tab 1 qd (Rx)
+		40mg tab 1 qd (Rx)
+		80mg tab 1 qd (Rx)
+	Nebivolol (Bystolic)
+		2.5mg tab qd (Rx)
+		5mg tab qd (Rx)
+		10mg tab qd (Rx)
+	Nifedipine (Adalat)
+		10mg cap 1 q8 hr (Rx)
+		20mg cap 1 q8 hr (Rx)
+	Nifedipine (Adalat) XR
+		30mg cap 1 qd (Rx)
+		60mg cap 1 qd (Rx)
+		90mg cap 1 qd (Rx)
+	Olmesartan (Benicar)
+		5mg tab qd (Rx)
+		20mg tab qd (Rx)
+		40mg tab qd (Rx)
+	Prazosin HCL
+		1mg cap 1 qd (Rx)
+		2mg cap 1 qd (Rx)
+		5mg cap 1 qd (Rx)
+	Propranolol
+		10mg tab 1 BID (Rx)
+		20mg tab 1 BID (Rx)
+		40mg tab 1 BID (Rx)
+		80mg tab 1 BID (Rx)
+	Propranolol ER
+		80mg tab 1 qd (Rx)
+	Ramipril (Altace)
+		1.25mg cap/tab 1 qd (Rx)
+		2.5mg cap/tab 1 qd (Rx)
+		5mg cap 1/tab qd (Rx)
+		10mg cap/tab 1 qd (Rx)
+	Sotalol HCL
+		80mg tab 1 qd (Rx)
+	Spironolactone
+		25mg tab 1 qd (Rx)
+	Terazosin
+		1mg cap 1 qd (Rx)
+		2mg cap 1 qd (Rx)
+		5mg cap 1 qd (Rx)
+		10mg cap 1 qd (Rx)
+	Triamterene (Dyrenium)
+		50mg tab 1 qd (Rx)
+		50mg tab 1 q12 (Rx)
+		100mg tab 1 qd (Rx)
+		100mg tab 1 q12 (Rx)
+	Triamterene-HCTZ
+		37.5mg-25mg cap 1 qd (Rx)
+		37.5mg-25mg tab 1 qd (Rx)
+		75mg-50mg tab 1 qd (Rx)
+	Valsartan (Diovan)
+		40mg tab 1 qd (Rx)
+		80mg tab 1 qd (Rx)
+		160mg tab 1 qd (Rx)
+		320mg tab 1 qd (Rx)		
+	Verapamil
+		80mg tab 1 qd (Rx)
+		120mg tab 1 qd (Rx)
+Miscellaneous
+	Chlorhexidine Gluconate 0.12% soln
+		ud (Rx)
+Narcotics
+Neurologic
+	Cephalgia
+		Migraines
+	Neuropathy
+OB/GYN
+	Clomiphene
+		50mg tab 1 qd x 5 days (Rx)
+	Estradiol
+		0.45mg tab 1 qd (Rx)
+		0.5mg tab 1 qd (Rx)
+		0.9mg tab 1 qd (Rx)
+		1mg tab 1 qd (Rx)
+		1.5mg  tab 1 qd (Rx)
+		2mg tab 1 qd (Rx)
+	Estradiol transdermal patch
+		0.014mg 2 times / week for 3 weeks per month (Rx)
+		0.025mg 2 times / week for 3 weeks per month (Rx)
+		0.0375mg 2 times / week for 3 weeks per month (Rx)
+		0.05mg 2 times / week for 3 weeks per month (Rx)
+		0.06mg 2 times / week for 3 weeks per month (Rx)
+		0.075mg 2 times / week for 3 weeks per month (Rx)
+		0.1mg 2 times / week for 3 weeks per month (Rx)
+	Estropipate
+		0.75mg tab 1 qd (Rx)
+		1.5mg tab 1 qd (Rx)
+		3mg tab 1 qd (Rx)
+	Medroxyprogesterone Acetate
+		2.5mg tab 1 qd (Rx)
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+	Sprintec
+		28-day ud (Rx)
+	Tamoxifen
+		10mg tab 0.5 BID x 4 days(Rx)
+		10mg tab 1 BID x 4 days (Rx)
+		20mg tab 1 BID x 4 days (Rx)
+	Tri-Sprintec
+		28-day tab ud (Rx)
+Oncologic
+	Megestrol
+		20mg tab 2 QID (Rx)
+	Tamoxifen
+		10mg tab 1 qd (Rx)
+		10mg tab 1 BID (Rx)
+		20mg tab 1 qd (Rx)
+Opthalmologic
+	Atropine Sulfate 1% op sln
+		1-2 gtt up to TID (Rx)
+	Erythromycin op. oint .5%
+		q3-4hr up to 6 x/d (Rx)
+	Gentamicin 0.3% op. sln
+		1-2 gtt q2-4hr PRN (Rx)
+	Levobunolol 0.5% op soln
+		1-2 gtt ud qD (Rx)
+	Neomycin/Polym/Dexameth Opth Ointment
+		0.1% 1/2 inch ud QID (Rx)
+		0.35% 1/2 inch ud QID (Rx)
+	Neomycin/Polymyxin/Dexamethasone 0.1% op. susp (5ml bottle)
+		0.1% 1-2 gtt ud QID (Rx)
+		0.35% 1-2 gtt ud QID (Rx)
+	Pilocarpine op. soln
+		1% Apply 1-2 gtt TID (Rx)
+		2% Apply 1-2 gtt TID (Rx)
+	Timolol Maleateop. Opth soln 
+		0.25% 1 gtt ud BID (Rx)
+Osteoporosis
+	Alendronate SOD
+		5mg tab 1 qd (Rx)
+		10mg tab 1 qd (Rx)
+		35mg tab 1 q week (Rx)
+		70mg tab 1 q week (Rx)
+Psychiatric
+	Amitriptyline
+		10mg tab 1 qHS (Rx)
+		25mg tab 1 qHS (Rx)
+		50mg tab 1 qHS (Rx)
+		75mg tab 1 qHS (Rx)
+		100mg tab 1 qHS (Rx)
+		150mg tab 1 qHS (Rx)
+	Benztropine 
+		0.5mg tab 1 qd (Rx)
+		1mg tab 1 qd (Rx)
+		2mg tab 1 qd (Rx)
+	Buspirone
+		5mg tab 1 BID (Rx)
+		5mg tab 1 TID (Rx)
+		7.5mg tab 1 BID (Rx)
+		7.5mg tab 1 TID (Rx)
+		10mg tab 1 BID (Rx)
+		10mg tab 1 TID (Rx)
+		15mg tab 1 BID (Rx)
+		15mg tab 1 TID (Rx)
+		30mg tab 1 BID (Rx)
+	Carbamazepine
+		100mg tab 1 q12 h (Rx)
+		200mg tab 1 q12 h (Rx)
+	Carbamazepine ER
+		100mg cap  1 q12 h (Rx)
+		200mg cap  1 q12 h (Rx)
+		300mg cap  1 q12 h (Rx)
+		400mg cap  1 q12 h (Rx)
+	Citalopram
+		10mg tab 1 qd (Rx)
+		20mg tab 1 qd (Rx)
+		40mg tab 1 qd (Rx)
+	Doxepin HCL
+		10mg cap 1 qd (Rx)
+		25mg cap 1 qd (Rx)
+		50mg cap 1 qd (Rx)
+		75mg cap 1 qd (Rx)
+		100 mg cap 1 qd (Rx)
+	Fluoxetine
+		10mg tab 1 qd (Rx)
+		10mg cap 1 qd (Rx)
+		20mg cap 1 qd (Rx)
+		40mg cap 1 qd (Rx)
+		60mg cap 1 qd (Rx)
+	Fluphenazine
+		1mg tab q6 h (Rx)
+		2.5mg tab q6 h (Rx)
+		5mg tab q6 h (Rx)
+		10mg tab q6 h (Rx)
+	Haloperidol
+		0.5mg tab 1 BID (Rx)
+		1mg tab 1 BID (Rx)
+		2mg tab 1 BID (Rx)
+		5mg tab 1 BID (Rx)
+		10mg 1 BID (Rx)
+		20mg 1 BID (Rx)
+	Lithium Carbonate
+		150mg tab/cap 1 TID (Rx)
+		300mg tab/cap 1 TID 
+		450mg tab/cap 1 TID 
+		600mg tab/cap 1 TID 
+	Nortriptyline
+		10mg cap 1 q HS (Rx)
+		25mg cap 1 q HS (Rx)
+		50mg cap 1 q HS (Rx)
+		75mg cap 1 q HS (Rx)
+	Paroxetine
+		10mg tab 1 qd (Rx)
+		20mg tab 1 qd (Rx)
+		30mg tab 1 qd (Rx)
+		40mg tab 1 qd (Rx)
+	Prochlorperazine
+		5mg tab q8 hr (Rx)
+		10mg tab q8 hr (Rx)
+	Thioridazine
+		25mg tab 1 q8 h (Rx)
+		50mg tab 1 q8 h (Rx)
+	Trazodone
+		50mg tab 1 qHS (Rx)
+		100mg tab 1 qHS (Rx)
+		150mg tab 1 qHS (Rx)
+		300mg tab 1 qHS (Rx)
+Pulmonary
+	Albuterol HFA
+		90mcg 2 puffs q4-6 hr prn (Rx)
+	Albuterol Neb. Sln
+		0.5% (2.5mg) 0.5 cc q4-6 ht prn (Rx)
+	Azithromycin (Zithromax)
+		250mg tab 1 qd (Rx)
+		500mg tab 1 qd (Rx)
+		600mg tab 1 qd (Rx)
+	Baclofen
+	Beclomethasone (QVAR)
+		40mcg/act 2 BID (Rx)
+		80mcg/act 2 BID (Rx)
+	Ciclesonide (Alvesco)
+		80mcg/inh 2 puff BID
+		160mcg/inh 2 puff BID
+	Budesonide inhaled
+		90mcg/act 2 BID (Rx)
+		180mcg/act 2 BID (Rx)
+	Budesonide/formoterol (Symbicort)
+		(80mcg/4.5mcg)/puff 2 BID (Rx)
+		(160mcg/4.5mcg)/puff 2 BID (Rx)		
+	Flunisolide (Aerobid)
+		0.25mg/puff 2 BID (Rx)
+		0.078mg/puff 2 BID (Rx)
+	Fluticasone HFA
+		44mcg/inh 2 puffs BID (Rx)
+		110mcg/inh 2 puffs BID (Rx)
+		220mcg/inh 2 puffs BID (Rx)
+	Fluticasone Diskus
+		50mcg/inh 2 puffs BID (Rx)
+		100mcg/inh 2 puffs BID (Rx)
+		250mcg/inh 2 puffs BID (Rx)
+	Fluticasone and salmeterol (Advair Diskus)
+		(50mcg/100mcg)/act 2 puff BID (Rx)
+		(50mcg/250mcg)/act 2 puff BID (Rx)
+		(50mcg/500mcg)/act 2 puff BID (Rx)
+	Fluticasone and salmeterol (Advair HFA)
+		(21mcg/45mcg)/act 2 puff BID (Rx)
+		(21mcg/115mcg)/act 2 puff BID (Rx)
+		(21mcg/230mcg)/act 2 puff BID (Rx)
+	Formoterol (Foradil Aerolizer)
+		12mcg/cap 12 mcg inhaled q12hr (Rx)
+	Ipratropium HFA
+		17mcg/puff 2 puffs QID and prn < 12 puffs / d (Rx)
+	Ipratropium Neb Sln
+		0.02% q6-8 h (Rx)
+	Ipratropium and albuterol (Combivent Respimat)
+		(100mcg/20mcg)/inhalation 2 inh QID & PRN; < 12 inh/day (Rx)
+	Levalbuterol (Xopenex)
+		45mcg/inh 2 inh (90 mcg total) q4-6hr (Rx)
+	Metaproterenol
+		0.65mg/inh 2-3 puffs q3-4 h prn <12/d (Rx)
+	Mometasone (Asmanex Twisthaler)
+		110mcg 2 puffs BID (Rx)
+		220mcg 2 puffs BID (Rx)
+	Mometasone and formoterol (Dulera)
+		100mcg/5mcg/act 2 puff BID (Rx)
+		200mcg/5mcg/act 2 puff BID (Rx)
+	Montelukast(Singulair)
+		10mg tab 1 q Evening (Rx)
+	Omalizumab (Xolair)
+		150-375 mg SC q2-4Weeks (Rx)
+	Pirbuterol (Maxair Autohaler)
+		200mcg/actuation 1-2 act q4-6hr PRN < 12 act/day (Rx)
+	Promethazine-Codeine
+		(6.25mg/10mg)/5mL 5cc q4-6 h prn (Rx)
+	Promethazine-DM
+		(6.25mg/10mg)/5mL 5cc q4-6 h prn (Rx)
+	Roflumilast (Daliresp)
+		500mcg 1 qd (Rx)
+	Salmeterol (Serevent)
+		50 mcg 1 inhalation BID (Rx)
+	Theophylline ER
+		100mg tab 1 qd (Rx)
+		200mg tab 1 qd (Rx)
+		300mg tab 1 qd (Rx)
+		400mg tab 1 qd (Rx)
+	Tiotropium (Spiriva)
+		18mcg 2 inh qD (Rx)
+	Triamcinolone inhaled (Azmacort)
+		55mcg/inh 2 puffs TID to QID < 16 puff/d (Rx)
+		100mcg/inh 2 puffs TID to QID < 16 puff/d (Rx)
+	Zafirlukast (Accolate)
+		10mg tab 1 BID (Rx)
+		20mg tab 1 BID (Rx)
+	Zileuton ER
+		600mg tab 2 BID (Rx)
+	Cough
+	DVT/PE
+Smoking
+	Nicotine transdermal system (NicoDerm CQ)
+		ud (Rx)
+	Nicotine polacrilex (Nicorette)
+		ud (Rx)
+	Nicotine polacrilex inhaler (Oral Inhaler)
+		6 or more puffs/day PRN [4 mg/puff] < 16 puffs/d first 12 wk (Rx)
+	Nicotine polacrilex inhaler (Nasal Inhaler)
+		10-12 sprays/day in each nostril PRN [0.5 mg/spray] (Rx)
+	Bupropion hydrochloride (Zyban)
+		150 mg PO qDay x3 days, THEN increase to 150 mg BID (Rx)
+	Varenicline (Chantix)
+		0.5 mg PO qDay x3 days, THEN (Rx)
+		0.5 mg PO BID x4 days, THEN (Rx)
+		1 mg PO BID x 11 weeks(Rx)
+		1 mg PO BID x 12 weeks
+Thyroid
+	Levothyroxine
+		13mcg cap 1 qd (Rx)
+		25mcg cap/tab 1 qd (Rx)
+		50mcg cap/tab 1 qd (Rx)
+		75mcg cap/tab 1 qd (Rx)
+		88mcg cap/tab 1 qd (Rx)
+		100mcg cap/tab 1 qd (Rx)
+		112mcg tab 1 qd (Rx)
+		125mcg cap/tab 1 qd (Rx)
+		137mcg tab 1 qd (Rx)
+		150mcg cap/tab 1 qd (Rx)
+		175mcg tab 1 qd (Rx)
+		200mcg tab 1 qd (Rx)
+		300mcg tab 1 qd (Rx)
+Tuberculosis
+	Isoniazid
+		300mg tab 1 qd  (Rx)
+Vitamins Nutritian
+	Folic Acid
+		1mg tab 1 qd (Rx)
+	Mag 64
+		64mg tab 1 qd (Rx)
+	Magnesium Oxide
+		400mg tab (Rx)
+	Prenatal Plus
+		1 qd (Rx)
+	Potassium Chloride
+		10% liquid (473ml) (1419ml) (Rx)
+	Sodium Fluoride
+		.25mg chewable (120ct bottle (Rx)
+Weight Loss
